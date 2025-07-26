@@ -1,8 +1,8 @@
-username = "mario" --Put your username between the quotes!
+username = "localffdev" --Put your username between the quotes!
 
 SS = true -- Don't change the value to false cause it breaks everything and do not ask why
 warn([[
-thanks for using c00lgui Serverside by c00lMast3rr!
+thanks for using c00lgui Serverside by localffdev!
 sadly you aren't really able to customize your options-
 only with the selected and presets, sowwyyy!
 everything is FE, jsut run it through a ss executor.
